@@ -1,11 +1,9 @@
 # The URL the site will be built for
-base_url = "https://asi1296.github.io/"
+base_url = "https://asi1296.github.io"
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
 # What language to use
 default_language = "zh-cn"
-generate_feeds = true
-
 
 # Whether to build a search index to be used later on by a JavaScript library
 build_search_index = false
@@ -43,8 +41,7 @@ archives = "归档"
 about = "关于"
 rss = "订阅"
 more = "查看全文"
-olderArticle = "后文"
+olderArticle = "旧文"
 newer = "上一篇"
 older = "下一篇"
 loading = "加载中..."
-
